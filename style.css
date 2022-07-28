@@ -578,8 +578,12 @@ nav img:hover {
     background-color: #0d2d6f;
     align-items: center;
     text-align: center;
+    /* border: 2px solid rgb(255, 0, 0); */
 }
-
+#nav-Container img {
+    /* border: 2px solid rgb(255, 0, 0); */
+   width: 110px;
+}
 #nav-Container img:hover {
     cursor: pointer;
     opacity: 0.8;

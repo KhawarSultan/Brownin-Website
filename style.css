@@ -518,7 +518,7 @@ nav img:hover {
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
-    width: 65%;
+    width: 90%;
     margin: 3% auto;
     /* border: 2px solid rgb(0, 0, 0); */
     align-items: center;
@@ -529,7 +529,7 @@ nav img:hover {
 
 .Last-Container-Description {
     /* border: 2px solid rgb(43, 255, 0); */
-    width: 70%;
+    width: 90%;
     margin: auto;
     align-items: center;
     justify-content: center;

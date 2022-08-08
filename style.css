@@ -94,8 +94,9 @@ header {
 
 
 .main-nav {
+    width: 90%;
     height: 90px;
-    margin: 0% 13%;
+    margin: auto;
     border: 2px solid transparent;
 }
 
@@ -214,8 +215,8 @@ nav img:hover {
 }
 
 .text-box-Description {
-    width: 74%;
-    margin: 1% 1% 0% 0%;
+    width: 90%;
+    margin: auto;
     /* border: 2px solid rgb(255, 0, 0); */
     text-align: left;
 
@@ -294,7 +295,7 @@ nav img:hover {
 
 
 #Container {
-    width: 73.5%;
+    width: 90%;
     margin: 3% auto;
     display: flex;
     /* border: 2px solid rgb(0, 0, 0); */
@@ -321,8 +322,8 @@ nav img:hover {
     background-repeat: none;
     background-size: cover;
     height: 290px;
-    border-radius: 10px;
-    width: 100%;
+    border-radius: 5px;
+        width: 100%;
     /* margin: 2% 0% 2% 2%; */
     /* border: 2px solid rgb(255, 0, 0); */
     /* background-color: #cadbed; */
@@ -341,7 +342,7 @@ nav img:hover {
     background-size: cover;
     height: 250px;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 5px;
     transition: 0.5s;
     margin-left: -170px;
     /* border: 2px solid rgb(255, 0, 0); */
@@ -385,7 +386,7 @@ nav img:hover {
 
 
     width: 100%;
-    margin: 2% 0.7% 2% 0%;
+    /* margin: 2% 0.7% 2% 0%; */
     /* border: 2px solid rgb(255, 0, 0); */
     text-align: left;
     /* background-color: #fff3f3; */
@@ -407,8 +408,8 @@ nav img:hover {
 
 
 
-    width: 74%;
-    margin: 5% 13% 5% 0%;
+    width: 90%;
+    margin: 5% 5% 5% 0%;
     /* border: 2px solid rgb(255, 0, 0); */
     text-align: left;
     /* background-color: #fff3f3; */
@@ -471,7 +472,7 @@ nav img:hover {
     background-repeat: none;
     background-size: cover;
     height: 290px;
-    border-radius: 10px;
+    border-radius:5px;
     width: 100%;
     /* margin: 2% 0% 2% 2%; */
     /* border: 2px solid rgb(255, 0, 0); */
@@ -491,7 +492,7 @@ nav img:hover {
     background-size: cover;
     height: 250px;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 5px;
     transition: 0.5s;
     margin-right: -170px;
     position: relative;
@@ -520,10 +521,19 @@ nav img:hover {
     border-radius: 10px;
     width: 90%;
     margin: 3% auto;
-    /* border: 2px solid rgb(0, 0, 0); */
     align-items: center;
     justify-content: center;
     text-align: center;
+    /* border: 2px solid rgb(0, 0, 0); */
+
+
+
+
+
+
+
+
+
 
 }
 
@@ -537,7 +547,7 @@ nav img:hover {
 }
 
 #Last-Container h2 {
-    width: 70%;
+    width: 80%;
     margin: auto;
     padding: 4% 0% 0% 0%;
     /* border: 2px solid rgb(255, 0, 0); */
@@ -545,7 +555,7 @@ nav img:hover {
 }
 
 #Last-Container p {
-    width: 70%;
+    width: 80%;
     margin: 2% auto 2% auto;
     color: whitesmoke;
     /* border: 2px solid rgb(255, 0, 0); */

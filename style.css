@@ -67,7 +67,7 @@ header {
 }
 
 nav img {
-    width: 100px;
+    width: 90px;
     position: absolute;
     /* top: 5px;
      left: 12%; */
@@ -618,7 +618,7 @@ nav img:hover {
         text-align: right;
         display: block;
         color: whitesmoke;
-        font-size: 30px;
+        font-size: 25px;
         cursor: pointer;
         margin: 30px 10%;
     }
@@ -667,6 +667,7 @@ nav img:hover {
         gap: 20px;
     }
     .main-nav {
+        width: 100%;
         padding: 0px 0px;
         background-color: transparent;
     }
@@ -685,8 +686,9 @@ nav img:hover {
 
     #text-box-Container {
         display: block;
+        padding: 0px 0px;
     }
-
+ 
     .text-box-Description-Image {
         width: 74%;
         margin: 1% 0% 0% 26%;

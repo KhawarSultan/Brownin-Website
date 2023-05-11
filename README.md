@@ -46,7 +46,7 @@ Check out the live demo of the Brownin Landing Page [here](https://inbrown.netli
 
 
 ## About Me
-[@Khawar Sultan](https://www.github.com/octokatherine) A Creative Front-End Web Developer providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
+[@Khawar Sultan](https://github.com/KhawarSultan) A Creative Front-End Web Developer providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
 
 Aspiring to Create Your Websites with strong technical skills as a Front-End Developer 
 

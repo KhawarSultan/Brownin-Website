@@ -45,13 +45,14 @@ Check out the live demo of the Brownin Landing Page [here](https://inbrown.netli
 
 
 
-## 🚀 About Me
+## About Me
 [@Khawar Sultan](https://www.github.com/octokatherine) A Creative Front-End Web Developer providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
 
 Aspiring to Create Your Websites with strong technical skills as a Front-End Developer 
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khawarportfolio.netlify.app/)
+## Links
+[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=font-awesome&logoColor=white)](https://khawarportfolio.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawar-sultan-989314209/)
 
